@@ -1,0 +1,21 @@
+{
+  "id": "undeadtards-in-geb",
+  "title": "Undeadtards in Geb",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "url": "https://github.com/molotgor/undeadtards-in-geb",
+  "manifest": "https://raw.githubusercontent.com/molotgor/undeadtards-in-geb/master/module.json",
+  "download": "https://github.com/molotgor/undeadtards-in-geb/archive/refs/heads/master.zip"
+}
